@@ -7,5 +7,5 @@ This project involves the development of a hand gesture recognition model capabl
 The dataset used for training and testing the model can be obtained from https://www.kaggle.com/datasets/aryarishabh/hand-gesture-recognition-dataset
 
 # Usage:
-Clone the repository to your local machine:
+Clone the repository to your local machine: https://github.com/Rishikesh7788/PRODIGY_ML_4.git
 
